@@ -253,10 +253,7 @@ body.page-template-page-fullsingle-me h1 {
   -webkit-transition: 0.1s;
   transition: 0.1s;
 }
-h1 {color: rgb(149, 236, 207);
-background-color: black;
-padding: 16px; }
-p {color: rgb(202, 64, 110);
-padding: 16px; }
-h2 {padding: 16px;
-margin-top: 20px; }
+h1 {color: rgb(255, 255, 255);
+padding: 16px;  }
+p {color: rgb(202, 64, 110); padding-left: 16px; margin-top: 0}
+h2 {padding: 16px; }
